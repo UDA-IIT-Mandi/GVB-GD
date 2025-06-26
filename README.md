@@ -11,7 +11,7 @@ all you need to do to test it out is download dcase dataset make the split corre
 There are scripts in in the last cells of the notebook (i commented them out , to prevent them being accidently executed )below to set up text file with audio paths , just get the paths ready and you are good to go 
 
 
-
+i have also included the modular code below to implement the paper , i suggest sticking with the jupyter version . 
 
 
 <h2>Things you can try changing<h2> 
