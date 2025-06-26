@@ -18,7 +18,7 @@ There are scripts in in the last cells of the notebook (i commented them out , t
 
 <p>Try changing the loss function of the descriminator to "Wasserstien loss function" , "domain confusion loss"<p>
 
-<p>Try changing the generator  descriminator architecture to something else , experiment stuff like use some transformet based architecture for the generator<p> 
+<p>Try changing the generator  descriminator architecture to something else , experiment   using some transformer based architecture for the generator<p> 
 
 <p>also try changing the feature extractor model<p>
 
